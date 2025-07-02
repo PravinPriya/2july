@@ -76,7 +76,7 @@ resource "azurerm_resource_group" "sunny" {
 
 resource "azurerm_resource_group" "new" {
   name     = "vikybhai"
-  location = "central india"
+  location = "west us"
 }
 
 
